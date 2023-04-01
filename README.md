@@ -1,4 +1,7 @@
 # python-tests
 random python tests
 
-yes la programmation
+## Je suis le boss en programmation 
+### Liste ci-dessous de mes compétences actuelles :
+
+Merci à tous.
